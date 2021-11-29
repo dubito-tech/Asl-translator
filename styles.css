@@ -1,0 +1,9 @@
+body {
+  background-color: rgba(160, 32, 240, 0.349);
+}
+#images {
+  background-color: white;
+}
+.hand-letter-img {
+  width: 6em;
+}
